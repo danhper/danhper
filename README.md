@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-I am a software engineer and researcher based in London and am currently a 3rd year PhD at Imperial College London.
-My research is focused on security aspects of blockchain and decentralized finance.
+I am a software engineer and researcher based in London.
+I am currently building @merofinance and @gyrostable
 
 * Personal website: https://daniel.perez.sh
 * Twitter: https://twitter.com/danhper
