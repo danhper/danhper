@@ -2,7 +2,7 @@
 
 
 I am a software engineer and researcher based in London.
-I am currently building [Mero](https://mero.finance) and [Gyroscope](https://gyro.finance)
+I am currently building [TLX](https://tlx.fi/) and [Gyroscope](https://gyro.finance)
 
 * Personal website: https://daniel.perez.sh
 * Twitter: https://twitter.com/danhper
